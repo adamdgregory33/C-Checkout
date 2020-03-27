@@ -1,0 +1,6 @@
+﻿  Deal3For2.cpp
+  DealSameSet.cpp
+C:\Users\Adam\source\repos\SupermarketCheckoutVS\Deal3For2.cpp(73,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Adam\source\repos\SupermarketCheckoutVS\DealSameSet.cpp(83,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SupermarketCheckoutVS.vcxproj -> C:\Users\Adam\source\repos\SupermarketCheckoutVS\Debug\SupermarketCheckoutVS.exe
