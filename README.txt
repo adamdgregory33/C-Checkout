@@ -1,5 +1,9 @@
 Supermarket Checkout:
 
+A showcase of OOP principles in C++
+3 for 2 offer for 3 of the same item, or 3 items in the same set.
+
+
 Working in Visual Studio 2019 on Windows 10.
 
 Usage:
